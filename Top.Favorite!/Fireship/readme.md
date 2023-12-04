@@ -1,0 +1,1 @@
+- [5 crazy new AWS services just launched](https://youtu.be/ekPbZqPvCRA)
